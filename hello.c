@@ -1,6 +1,6 @@
 //
 #include <stdio.h>
-void main()
+int main()
 {
 char *s="Shai";
 printf("Hello world\n");
