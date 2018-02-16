@@ -5,5 +5,5 @@ void main()
 char *s="Shai";
 printf("Hello world\n");
 printf(s);
-  exit 0;
+  return 0;
 }
