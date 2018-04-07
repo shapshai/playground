@@ -3,7 +3,7 @@
 int main()
 {
 char *s="Shai Changed new version";
-printf("Hello world, again\n");
+printf("Hello world. this is dev2, again\n");
 printf(s);
   return(0);
 }
